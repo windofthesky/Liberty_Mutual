@@ -1,8 +1,0 @@
-netstat -a -o -n
--->identify pid for a particular process
-
-
-
-taskkill /F /PID 2184
-
---> kill by providing PID of that process
